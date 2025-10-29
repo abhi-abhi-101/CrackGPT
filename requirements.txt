@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+fpdf
+requests
+python-dotenv
+streamlit-mic-recorder
+faster-whisper
+torch        # only if you plan to run faster-whisper locally (CPU or GPU)
+elevenlabs
